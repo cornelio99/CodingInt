@@ -1,6 +1,0 @@
-C:\Users\juan.angulo\Documents\Visual Studio 2012\Projects\C#\CrackingCode_Book\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
-C:\Users\juan.angulo\Documents\Visual Studio 2012\Projects\C#\CrackingCode_Book\Chapter1\Chapter1\bin\Debug\Chapter1.exe
-C:\Users\juan.angulo\Documents\Visual Studio 2012\Projects\C#\CrackingCode_Book\Chapter1\Chapter1\bin\Debug\Chapter1.pdb
-C:\Users\juan.angulo\Documents\Visual Studio 2012\Projects\C#\CrackingCode_Book\Chapter1\Chapter1\obj\Debug\Chapter1.csprojResolveAssemblyReference.cache
-C:\Users\juan.angulo\Documents\Visual Studio 2012\Projects\C#\CrackingCode_Book\Chapter1\Chapter1\obj\Debug\Chapter1.exe
-C:\Users\juan.angulo\Documents\Visual Studio 2012\Projects\C#\CrackingCode_Book\Chapter1\Chapter1\obj\Debug\Chapter1.pdb
