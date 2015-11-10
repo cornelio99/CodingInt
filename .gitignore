@@ -5,3 +5,5 @@
 *.pdb
 *.ini
 *.dll
+bin/
+obj/
